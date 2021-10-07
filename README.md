@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>&nbsp;&nbsp;&nbsp; Oracle &nbsp;&nbsp;&nbsp;</a>
  <br/><br/>
 </p>
-<h3 align="left"> Other: </h3>
+<h3 align="left"> DevOps: </h3>
 <p align="center">        
   <br/>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;</a> 
