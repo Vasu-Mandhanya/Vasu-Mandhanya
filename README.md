@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h4 align="center"> A passionate software developer and tech enthusiast. Love solving problems and learning new things. Feel free to check out my repositories.</h4>
 
 <h4 align="center"> Visit My Website</h4>
-<a href="https://vasu-mandhanya.github.io/Vasu-Mandhanya/" target="_blank"><h4 align="center"> https://vasu-mandhanya.github.io/Vasu-Mandhanya/ </h4></a>
+<a href="https://vasu-mandhanya.github.io/" target="_blank"><h4 align="center"> https://vasu-mandhanya.github.io/ </h4></a>
 
 <h2 align="center">Languages and Tools:</h2>
 <h3 align="left"> Programming Languages: </h3>
