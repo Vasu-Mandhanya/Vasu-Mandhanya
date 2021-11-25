@@ -1,0 +1,54 @@
+p{
+    text-align: justify;
+}
+#AR_Emoji{
+    border-radius: 25%;
+    max-width: 90%;
+    width: fit-content;
+    height: 400px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+.nav-item{
+    transition:ease-in !important;
+    transition-duration: 0.5s !important;
+    color: rgb(215, 233, 231);
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 0.8mm;
+}
+
+.navbar-collapse .nav-item:hover{
+    transition:ease-in !important;
+    transition-duration: 0.5s !important;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 0.8mm;
+}
+
+.nav-item .active{
+    background-color:#0d6efd;
+    color: white !important;
+    font-weight: bolder;
+    border-style: solid;
+    border-width: 0 0 1mm 0;
+    border-radius: 25%;
+    border-color: white;
+    transition:ease-in;
+    transition-duration: 0.5s;
+    padding-bottom: 10px !important;
+    /* text-decoration: underline; */
+}
+
+/* .navbar-brand{
+    transition: 0.5s;
+    transition-duration: 0.5s;
+}
+.navbar-brand:active,.navbar-brand:hover{
+    text-decoration: underline;
+    transition: 0.5s;
+} */
