@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hey ! I am Vasu Mandhanya</h1>
 <h4 align="center"> A passionate software developer and tech enthusiast. Love solving problems and learning new things. Feel free to check out my repositories.</h4>
 
-<h4 align="center"> Visit My Website</h4>
-<a href="https://vasu-mandhanya.github.io/" target="_blank"><h4 align="center"> https://vasu-mandhanya.github.io/ </h4></a>
+[<h4 align="center"> Visit My Website</h4>](https://vasu-mandhanya.github.io/)
+
 
 <h2 align="center">Languages and Tools:</h2>
 <h3 align="left"> Programming Languages: </h3>
